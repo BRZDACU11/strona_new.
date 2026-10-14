@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Inna zmiana wykonana na masterze
+=======
+Zmiana z gałezi konfliktowej
+>>>>>>> conflict-feature-Wiktor
